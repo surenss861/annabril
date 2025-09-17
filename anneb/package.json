@@ -1,0 +1,39 @@
+{
+  "name": "centum-hero",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "vercel-build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.8",
+    "@heroicons/react": "^2.2.0",
+    "aos": "^2.3.4",
+    "framer-motion": "^12.23.13",
+    "lucide-react": "^0.544.0",
+    "react": "^18.2.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.6.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-router-dom": "^7.9.1",
+    "react-scripts": "5.0.1",
+    "unsplash-js": "^7.0.20"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
